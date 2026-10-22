@@ -1,0 +1,1 @@
+Metti qui da 10 a 20 mail scritte da te, quelle riuscite (un file di testo per mail). Servono perche' l'agente impari come parli: tono, saluto, firma, lunghezza.
